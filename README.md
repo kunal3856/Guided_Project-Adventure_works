@@ -1,4 +1,4 @@
-# Adventureworks Sales Analysis
+# Maven's Market Sales Analysis
 
 ### Project Overview
 ---
@@ -60,9 +60,6 @@ The analysis results are summarized as follows:
 Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions across Canadian region to maximize revenue.
 - Focus on expanding and promoting Top performing product_brands.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
 
 ### References
-
-1. Udemy(
-2. [Stack Overflow](https://stack.com)
+- [Udemy](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=KEEPLEARNING)
