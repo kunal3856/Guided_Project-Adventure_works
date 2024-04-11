@@ -11,13 +11,13 @@ This data analysis project aims to provide insights into the sales performance o
 
 - Customers : This dataset contains all the information about customers who ever made a purchase at any of our stores including the information about the membership cards. 
 
-- Products: Contains information about the different product brands that tied up with the stores, having information of product_price vs product_cost   
+- Products: Contains information about the different product brands that tied up with the stores.   
 
-- Regions: This dataset contains all the information about all the respective disticts and regions where the stores are located  
+- Regions: This dataset contains all the information about all the respective districts and regions where the stores are located.  
 
-- Returns Data: Gives information about the returns data of different products made by customers with reference to the stores. 
+- Returns Data: Returns data of different products made by customers with reference to the stores. 
 
-- Stores: All the information about the stores that are operated by Maven's Market is stored in this dataset.
+- Stores: Contains all information about the stores that are operated by Maven's Market is stored in this dataset.
 
 - Calender: Dataset contains all the dates information for which we are performing the analysis.
 
@@ -46,12 +46,12 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 We have tried to capture monthly sales by adding KPI's for current month's Transactions , Profit and Returned goods. also we have added the map visual represeting the major areas of our work crowd, and the weekly trending chart helps to understand the by weekly sales performance.We have also highlighted the top product brands that contributes to maximum profits.
 
-![image](https://github.com/kunal3856/Guided_Project-Adventure_works/assets/65026671/bf7c3715-b466-4a1b-835c-3808f076747b)
+![image](https://github.com/kunal3856/Mavens_Market/assets/65026671/f6261d5f-6216-485d-bd49-e763f2f20dea)
 
 ### Results/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past years, Monthly Transactions got Double by the end of 1998
+1. The company's sales have been steadily increasing over the past years, Monthly Transactions got almost Double after expanding our mak=rket in  Maxico and Canada.
 2. Product_brand Hermanos is the best-performing products in terms of sales and revenue.
 3. Stores Performance across Mexico region is performing really well as compare with Canadian stores
 
